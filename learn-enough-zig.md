@@ -259,34 +259,4 @@ pub fn main() !void {
 }
 ```
 
----
-
-# 8. Recommended Learning Path for Zig + DSA
-
-## Day 1 — Basics & Arrays
-- `const`, `var`, loops, slices  
-- Solve: LC11, LC121, LC977
-
-## Day 2 — Strings & Hashing
-- `[]const u8`, frequency arrays  
-- Solve: LC242, LC49, LC383
-
-## Day 3 — Sorting & Two-Pointers
-- `std.mem.sort`, comparators  
-- Solve: LC15, LC16, LC56
-
-## Day 4 — Recursion & Backtracking
-- recur functions, small buffers  
-- Solve: LC78, LC46, LC39
-
-## Day 5 — DP & 2D Arrays
-- `[N][M]T` arrays, DP patterns  
-- Solve: LC70, LC322, LC64
-
-## Day 6 — Graphs & BFS/DFS
-- adjacency lists, visited arrays  
-- Solve: LC200, LC417, LC994
-
-
----
 
